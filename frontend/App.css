@@ -1,0 +1,19 @@
+
+.loginpage{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #a42525;
+  color: rgb(21, 1, 1);
+}
+.signuppage{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #5a80d9;
+  color: rgb(21, 1, 1);
+}
